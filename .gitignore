@@ -1,0 +1,8 @@
+pom-generated.xml
+Manifest.txt
+csv2xml.jar
+lib
+classes
+# ignore emacs files
+*~
+\#*\#
